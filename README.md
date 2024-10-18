@@ -1,5 +1,5 @@
 # Tomato Timer 
 
-_Work on progress..._
+_Work in progress..._
 
 ![tomato.png](tomato.png)
